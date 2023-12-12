@@ -1,1 +1,1 @@
-# CSRD
+### The results of the CSRD paper for both Settings 1 and 2, test datasets with HR and LR images, and figures of the paper are provided here: (https://drive.google.com/file/d/1OOgpEVBnwCszWzdlG129jC6liDXsrjEH/view?usp=drive_link).
